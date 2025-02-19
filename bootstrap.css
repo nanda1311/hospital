@@ -1,0 +1,12 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.text{
+     border-style: solid black;
+}
+.first{
+     border-radius:12px ;
+     background-color: lightgray;
+}
